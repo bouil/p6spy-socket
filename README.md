@@ -1,9 +1,9 @@
-#Introduction
+# Introduction
 
 This project is to be used with the [P6Spy module](https://github.com/p6spy/p6spy).
 
 It is a socket listener that will send JDBC statements to any connected client.
-It listens to the port is 4564, on interface 127.0.0.1. This is not configurable yet.  
+It listens to the port 4564, on interface 127.0.0.1. This is not configurable yet.  
 
 The dependency for p6spy is already included in this project.
 
